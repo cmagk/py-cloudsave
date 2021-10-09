@@ -1,0 +1,2 @@
+SAVEDATA_ORIGINAL_LOCATION=D:\SteamLibrary\steamapps\common\Conan Exiles\ConanSandbox\Saved
+DESIRED_ZIP_FILE_NAME=conan-exiles-save
